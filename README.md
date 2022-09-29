@@ -1,7 +1,7 @@
 # Code Refractor 
-The goal is to clean up the HTML and CSS code by making sure semantic elements are being used.
+The site for a marketing agency has a lot of repeating code. The goal is to clean up the HTML and CSS code by making sure semantic elements are being used in order to help with Search Engine Optimization (SEO).  
 ## Description
-Cleaning up the code is not the only purpose of the code refraction, making it more accessible through "alt" attributes is also a priority. 
+Cleaning up the code is not the only purpose of the code refraction, making it more accessible through "alt" attributes is also a priority. The site should look exactly the same and must be entirely functional after all semantic elements have been added. Better accessibility and semantic element usage will help with the SEO. 
 ## Acceptance Criteria
 ```
 GIVEN a webpage meets accessibility standards
