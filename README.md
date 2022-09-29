@@ -17,4 +17,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 ## Links 
+Deployed page URL below! 
+https://albertojl3.github.io/horiseon-code-refractor/
 ## Screenshot
+![](https://file%2B.vscode-resource.vscode-cdn.net/Users/aj/Desktop/Screen%20Shot%202022-09-28%20at%2010.21.10%20PM.png?version%3D1664418184945)
